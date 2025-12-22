@@ -2,15 +2,15 @@
 
 ### 👨‍💻 Software Engineering Student | Frontend Developer | 3D Modeling Enthusiast
 
-I am a passionate Software Engineering student dedicated to blending the logic of code with the aesthetics of design. I build modern, responsive web experiences and bring digital concepts into the physical world through 3D modeling and printing. 💡
+I am a Software Engineering student. Honestly, I really love combining the logic of coding with creative design 💻🎨. It is great to see how they work together.
 
 ---
 
 ### 🛠️ What I Do
 
-* **Web Development:** Crafting sleek and user-centric interfaces using React, JavaScript, and Tailwind CSS. 🌐
-* **Software Engineering:** Solving problems and building foundations with Java and C++. ⚙️
-* **3D Design & Printing:** Designing functional and artistic models, then bringing them to life with my 3D printer. 🧊🖨️
+* **Web Development:** I make clean and easy-to-use websites with React, JavaScript, and Tailwind CSS. 🌐
+* **Software Engineering:** I love solving problems and learning the basics with Java and C++. ⚙️
+* **3D Design & Printing:** I design 3D models and use my 3D printer to make them real 🧊🖨️
 
 ---
 
