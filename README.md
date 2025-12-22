@@ -8,8 +8,8 @@ I am a Software Engineering student. Honestly, I really love combining the logic
 
 ### 🛠️ What I Do
 
-* **Web Development:** I make clean and easy-to-use websites with React, JavaScript, and Tailwind CSS. 🌐
-* **Software Engineering:** I love solving problems and learning the basics with Java and C++. ⚙️
+* **Web Development:** I make clean and easy-to-use websites with, JavaScript, and CSS. 🌐
+* **Software Engineering:** I love solving problems and learning the basics C++. ⚙️
 * **3D Design & Printing:** I design 3D models and use my 3D printer to make them real 🧊🖨️
 
 ---
