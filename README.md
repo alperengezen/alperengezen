@@ -22,19 +22,9 @@ I am a passionate Software Engineering student dedicated to blending the logic o
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=alperengezen&show_icons=true&theme=tokyonight&hide_border=true" alt="Alperen's Stats" />
-</p>
-
----
-
 ### 📫 Let's Connect!
 
 * 📧 Email: [alperengezen12@gmail.com](mailto:alperengezen12@gmail.com)
-* 💼 LinkedIn: [linkedin.com/in/alperengezen](https://linkedin.com/in/alperengezen)
-
 ---
 
 <p align="center">
