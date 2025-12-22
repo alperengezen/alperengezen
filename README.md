@@ -29,20 +29,8 @@ I am a Software Engineering student. Honestly, I really love combining the logic
   <a href="https://react.dev/" target="_blank">
     <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=tailwind" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/>
-  </a>
   <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank">
     <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/>
   </a>
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/>
