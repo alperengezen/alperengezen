@@ -7,9 +7,7 @@ I am a Software Engineering student. Honestly, I really love combining the logic
 ---
 
 ### 📬 Connect with me:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KENDI_LINKIN) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/KENDI_KULLANICI_ADIN)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/alperengzn_)
 [![Email](https://img.shields.io/badge/Email-mailto:alperengezen12@gmail.com-%23D14836.svg?logo=gmail&logoColor=white)](mailto:alperengezen12@gmail.com)
 
 ---
