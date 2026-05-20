@@ -2,7 +2,9 @@
 
 ### 👨‍💻 Software Engineering Student | Frontend Developer | 3D Modeling Enthusiast
 
-I am a Software Engineering student. Honestly, I really love combining the logic of coding with creative design 💻🎨. It is great to see how they work together.
+I am a Software Engineering student. I love mechanical systems, lines of code, and robotics.
+
+Code runs, joy begins...
 
 ---
 
