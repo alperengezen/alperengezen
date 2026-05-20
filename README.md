@@ -26,7 +26,7 @@ I am a Software Engineering student. Honestly, I really love combining the logic
     <td width="50%" align="center">
       <h4>📸 My Creality 3D Printer</h4>
       <img src="https://github.com/alperengezen/test/blob/main/WhatsApp%20Image%202026-05-20%20at%2021.20.19.jpeg?raw=true" width="100%" style="border-radius: 8px;" alt="My 3D Printer setup"/>
-      <p><i>Where the digital code turns into tangible reality.</i></p>
+      <p><when your ideas turn the realit...</i></p>
     </td>
     <td width="50%" align="center">
       <h4>⚔️ Custom 3D Prints & Models</h4>
