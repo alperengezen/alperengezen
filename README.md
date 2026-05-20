@@ -30,7 +30,7 @@ I am a Software Engineering student. Honestly, I really love combining the logic
     </td>
     <td width="50%" align="center">
       <h4>⚔️ Custom 3D Prints & Models</h4>
-      <img src="BASKININ_FOTOGRAF_LINKI" width="100%" style="border-radius: 8px;" alt="My 3D Print Showcase"/>
+      <img src=["https://github.com/alperengezen/test/blob/main/horse.jpeg?raw=true" width="100%" style="border-radius: 8px;" alt="My 3D Print Showcase"/>
       <p><i>High-quality custom figures and models designed and manufactured by me.</i></p>
     </td>
   </tr>
