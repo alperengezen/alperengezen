@@ -7,9 +7,34 @@ I am a Software Engineering student. Honestly, I really love combining the logic
 ---
 
 ### 📬 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/alperengzn_)
 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/alperengzn_)
 [![Email](https://img.shields.io/badge/Email-mailto:alperengezen12@gmail.com-%23D14836.svg?logo=gmail&logoColor=white)](mailto:alperengezen12@gmail.com)
+
+---
+
+### 🚀 Tech Stack & Tools
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+### 🎨 My 3D Workspace & Physical Prints 📦🤖
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <h4>📸 My Creality 3D Printer</h4>
+      <img src="YAZICININ_FOTOGRAF_LINKI" width="100%" style="border-radius: 8px;" alt="My 3D Printer setup"/>
+      <p><i>Where the digital code turns into tangible reality.</i></p>
+    </td>
+    <td width="50%" align="center">
+      <h4>⚔️ Custom 3D Prints & Models</h4>
+      <img src="BASKININ_FOTOGRAF_LINKI" width="100%" style="border-radius: 8px;" alt="My 3D Print Showcase"/>
+      <p><i>High-quality custom figures and models designed and manufactured by me.</i></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -17,13 +42,4 @@ I am a Software Engineering student. Honestly, I really love combining the logic
 
 * **Web Development:** I make clean and easy-to-use websites with HTML, CSS, JavaScript, and React. 🌐
 * **Software Engineering:** I love solving problems and learning the basics of C++. ⚙️
-* **3D Design & Printing:** I design 3D models and use my 3D printer to make them real. 📦🤖
-
----
-
-### 🚀 Tech Stack & Tools
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+* **3D Design & Printing:** I design 3D models and use my 3D printer to make them real. 🏎️🔥
