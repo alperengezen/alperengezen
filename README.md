@@ -6,33 +6,25 @@ I am a Software Engineering student. Honestly, I really love combining the logic
 
 ---
 
+### 📬 Connect with me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/KENDI_LINKIN) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=instagram&logoColor=white)](https://instagram.com/KENDI_KULLANICI_ADIN)
+[![Email](https://img.shields.io/badge/Email-mailto:alperengezen12@gmail.com-%23D14836.svg?logo=gmail&logoColor=white)](mailto:alperengezen12@gmail.com)
+
+---
+
 ### 🛠️ What I Do
 
-* **Web Development:** I make clean and easy-to-use websites with, JavaScript, and CSS. 🌐
-* **Software Engineering:** I love solving problems and learning the basics C++. ⚙️
-* **3D Design & Printing:** I design 3D models and use my 3D printer to make them real 🧊🖨️
+* **Web Development:** I make clean and easy-to-use websites with HTML, CSS, JavaScript, and React. 🌐
+* **Software Engineering:** I love solving problems and learning the basics of C++. ⚙️
+* **3D Design & Printing:** I design 3D models and use my 3D printer to make them real. 📦🤖
 
 ---
 
 ### 🚀 Tech Stack & Tools
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://visualstudio.microsoft.com/vs/features/cplusplus/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=cpp" alt="cpp" width="40" height="40"/>
-  </a>
-  <a href="https://code.visualstudio.com/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=vscode" alt="vscode" width="40" height="40"/>
-  </a>
-</p>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![VS Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
